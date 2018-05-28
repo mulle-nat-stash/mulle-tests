@@ -1,3 +1,8 @@
+# THIS PROJECT HAS BEEN SUPERSEDED BY MULLE-TEST
+
+-> [mulle-test](//github.com/mulle-nat/mulle-test)
+
+
 # mulle-tests Cross platform tests
 
 Test C and Objective C **library** code
