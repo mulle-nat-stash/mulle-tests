@@ -1,6 +1,6 @@
 # THIS PROJECT HAS BEEN SUPERSEDED BY MULLE-TEST
 
--> [mulle-test](//github.com/mulle-nat/mulle-test)
+-> [mulle-test](//github.com/mulle-sde/mulle-test)
 
 
 # mulle-tests Cross platform tests
